@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "fe6c18b6-ef3d-4896-ba56-b2f6155660e7"
+id: "d30b6e2d-6a48-4ca8-8bfe-ff3df6577718"
 name: "executive-summary"
 display_name: "Executive Summary"
 description: "Distilling complex analysis into concise, decision-ready executive summaries for senior stakeholders"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
