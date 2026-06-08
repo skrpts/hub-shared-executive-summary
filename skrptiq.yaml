@@ -3,7 +3,7 @@ id: "d30b6e2d-6a48-4ca8-8bfe-ff3df6577718"
 name: "executive-summary"
 display_name: "Executive Summary"
 description: "Distilling complex analysis into concise, decision-ready executive summaries for senior stakeholders"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "skill"
+dependencies: []
+
 contents:
   skills: 1
   prompts: 0
